@@ -3,7 +3,7 @@ Live Webpage: [https://movie-project-hjeon.herokuapp.com/](https://movie-project
 
 
 ## Overview
-We will be using the TMDB movie data set in order to visualize the success of movies by profit. We will use some factors might affect profits. We will visualize the data with the following cases: 
+We will be using the TMDB movie data (1920-2015) set (approximately 5000 row) in order to visualize the success of movies by profit. We will use some factors might affect profits. We will visualize the data with the following cases: 
 * Avg profit for top directors
 * Avg profit for top production companies
 * Profit for top genres over time
