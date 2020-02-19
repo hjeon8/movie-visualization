@@ -1,6 +1,6 @@
 # movie-visualization
 Live Webpage: [https://movie-project-hjeon.herokuapp.com/](https://movie-project-hjeon.herokuapp.com/)
-Live Webpage: [https://hjeon8.github.io/border-cross-project/](https://hjeon8.github.io/border-cross-project/)
+Live Webpage: [https://hjeon8.github.io/movie-visualization/](https://hjeon8.github.io/border-cross-project/)
 
 
 ## Overview
